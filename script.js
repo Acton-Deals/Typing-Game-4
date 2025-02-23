@@ -367,7 +367,7 @@ function main1() {
 
     gameON = 0;
     points = 0;
-    alert("Keep your left finger on the F key \n Keep your right finger on the j key \n Try and keep your eyes on the screen \n Type as many words as you can");
+    alert("Keep your left finger on the F key \n Keep your right finger on the j key \n Try and keep your eyes on the screen \n Type as many letters as you can");
     startTimer();
     level1();
 
